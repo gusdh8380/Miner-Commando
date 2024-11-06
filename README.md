@@ -2,7 +2,8 @@
 유니티로 개발된 탑다운뷰 픽셀아트 2D 멀티플레이 협동 게임
 
 2024 성공회대 IT 경진대회 은상 수상
-발표 영상
+
+
 https://www.youtube.com/watch?v=Kly7gh-5nWU&t=13s
 
 ## 개요
@@ -12,9 +13,11 @@ https://www.youtube.com/watch?v=Kly7gh-5nWU&t=13s
 
 ## 레퍼런스 게임
 we need to go to deeper
+
 https://store.steampowered.com/app/307110/We_Need_To_Go_Deeper/?l=koreana
 
 Lovers in a Dangerous Spacetime
+
 https://store.steampowered.com/app/252110/Lovers_in_a_Dangerous_Spacetime/
 
 ## 게임 설명
@@ -67,5 +70,5 @@ https://store.steampowered.com/app/252110/Lovers_in_a_Dangerous_Spacetime/
    5. 게임 로딩씬(로비 → 행성) 비동기 호출 구현 실패
         1.  비동기적 호출로 구현하려고 하였으나, 게임 입장 시 플레이어 생성에 버그를 해결하지 못해 결국 비동기적 호출이 아닌 PhotonNetwork.LoadLevel()로 씬 전환 구현
 
- ## 프로텍트를 마무리 한 후
+
  
