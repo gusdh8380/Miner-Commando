@@ -12,7 +12,10 @@ https://www.youtube.com/watch?v=Kly7gh-5nWU&t=13s
 
 ## 레퍼런스 게임
 we need to go to deeper
+https://store.steampowered.com/app/307110/We_Need_To_Go_Deeper/?l=koreana
+
 Lovers in a Dangerous Spacetime
+https://store.steampowered.com/app/252110/Lovers_in_a_Dangerous_Spacetime/
 
 ## 게임 설명
 우주모함에서 탐사선을 타고 출동하는 방식으로, 우주모함에서 임무를 받고 탐사선에 탑승하여 출동합니다. 
