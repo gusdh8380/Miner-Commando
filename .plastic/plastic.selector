@@ -1,0 +1,4 @@
+repository "Capstone Project@gusdh8380@cloud"
+  path "/"
+    smartbranch "/main/ClientPrototype/NetworkTest3" 
+     
