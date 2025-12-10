@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eb77a3717e405d4eb8ee1e6e5e62cd9, type: 3}
+  m_Name: Ore Data B
+  m_EditorClassIdentifier: 
+  oreName: B
+  oreId: 1
+  hitsRequired: 3
+  minedOreSprite: {fileID: -1002146286, guid: 8d0fc7482ca68f84e9dd7f936546dd84, type: 3}
+  minAmount: 1
+  maxAmount: 1
